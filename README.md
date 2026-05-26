@@ -2,11 +2,16 @@
 
 **Nombre completo:** Julio Cesar Brumley Pereira
 
-**Edad:** [32]
+**Edad:** \[32]
 
 **Carrera:** Ingeniería Informática
+
 ## Hobbies
 
-- Leer
-- Escuchar música
-- Ver series
+* Leer
+* Escuchar música
+* Ver series
+
+## Contacto
+
+* **Email:** juliobp3@gmail.com
